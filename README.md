@@ -39,7 +39,7 @@
   </a>
   <img width="12" />
   <a href="https://expressjs.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo" />
+    <img src="https://img.shields.io/badge/Express.js-white?style=for-the-badge&logo=express&logoColor=black" height="40" alt="express logo" />
   </a>
   <img width="12" />
   <a href="https://www.mongodb.com/" target="_blank">
